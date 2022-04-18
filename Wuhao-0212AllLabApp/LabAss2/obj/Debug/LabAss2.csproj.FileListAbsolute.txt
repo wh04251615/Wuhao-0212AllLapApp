@@ -1,0 +1,11 @@
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\bin\Debug\LabAss2.exe.config
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\bin\Debug\LabAss2.exe
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\bin\Debug\LabAss2.pdb
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.AssemblyReference.cache
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.SuggestedBindingRedirects.cache
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.Form1.resources
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.Properties.Resources.resources
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.GenerateResource.cache
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.csproj.CoreCompileInputs.cache
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.exe
+E:\外教作业\MyRepos\Wangbowen-0227AllLabApp\LabAss2\obj\Debug\LabAss2.pdb
