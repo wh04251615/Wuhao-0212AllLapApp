@@ -1,0 +1,8 @@
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\bin\Debug\Wuhao-0212AllLapApp.exe.config
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\bin\Debug\Wuhao-0212AllLapApp.exe
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\bin\Debug\Wuhao-0212AllLapApp.pdb
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\obj\Debug\Wuhao-0212AllLapApp.csproj.AssemblyReference.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\obj\Debug\Wuhao-0212AllLapApp.csproj.SuggestedBindingRedirects.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\obj\Debug\Wuhao-0212AllLapApp.csproj.CoreCompileInputs.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\obj\Debug\Wuhao-0212AllLapApp.exe
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\Wuhao-0212AllLapApp\obj\Debug\Wuhao-0212AllLapApp.pdb
