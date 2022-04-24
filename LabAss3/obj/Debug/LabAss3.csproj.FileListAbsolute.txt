@@ -1,0 +1,13 @@
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\bin\Debug\LabAss3.exe.config
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\bin\Debug\LabAss3.exe
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\bin\Debug\LabAss3.pdb
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.csproj.AssemblyReference.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.csproj.SuggestedBindingRedirects.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.frmCustomerDataEntry.resources
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.frmCustomerPreview.resources
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.MDIParent1.resources
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.Properties.Resources.resources
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.csproj.GenerateResource.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.csproj.CoreCompileInputs.cache
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.exe
+D:\workspace\CASE_2021-22.2\MyRepos\Wuhao-0212AllLapApp\LabAss3\obj\Debug\LabAss3.pdb
